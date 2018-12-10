@@ -18,3 +18,9 @@
   background-color: black;
   color: white;
 }
+
+#button{
+  text-align: center;
+  color: blue;
+  float: right;
+}
