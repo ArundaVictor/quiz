@@ -1,4 +1,20 @@
 #questions{
   display: none;
   background-color: black;
+
+}
+
+.jumbotron{
+  background-color: black;
+  font-style: oblique;
+  color: yellow;
+}
+
+.button{
+  color: blue;
+}
+
+.well{
+  background-color: black;
+  color: white;
 }
