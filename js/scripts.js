@@ -26,11 +26,11 @@
 
 
 
-    $("#button").click(function result(form) {
+    $("#button").click(function () {
 
 
 
-        alert(answer);
+        alert("Yor total score is "+answer);
 
 
 
