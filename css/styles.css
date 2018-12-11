@@ -3,12 +3,15 @@
   background-color: black;
 
 }
+#result{
+  display: none;
+}
 
 .jumbotron{
   background-color: black;
   font-style: oblique;
   color: yellow;
-  
+
 }
 
 .button{
