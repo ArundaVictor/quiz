@@ -25,7 +25,9 @@ $("#button").click(function() {
       score += 10;
     }
 $("#result").val("Your score is "+score);
+
 $("#button").click(function () {
+  
   $("#questions").hide();
   $("#result").slideToggle();
 })
